@@ -1,4 +1,4 @@
-package com.itechgenie.apps.openshift.ApplicationMetaHelper;
+package com.itechgenie.apps.openshift.helper;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
